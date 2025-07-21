@@ -1,9 +1,9 @@
 # 🛒 Olist E-commerce Store Analysis – Power BI Project
-🔍 Introduction
+## 🔍 Introduction
 This Power BI dashboard showcases a comprehensive analysis of Olist, a leading Brazilian e-commerce platform. The project focused on uncovering patterns in customer behavior, payment methods, and delivery efficiency using real-world multi-table datasets. The goal was to derive actionable insights that can help optimize operations, marketing strategies, and customer satisfaction.
 
 ## Dashboard
-![GlobalSuperstore-Dashboard](https://github.com/user-attachments/assets/d1740128-446a-4049-99b0-fb807da775de)
+![Olist Store Dashboard](https://github.com/user-attachments/assets/9ac5c137-91f0-4cd1-9751-96589a4a3dfd)
 
 
 ## 💡 Skills Showcased
